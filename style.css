@@ -1,0 +1,122 @@
+.fejlec{
+  display: flex;
+  flex-direction: row;
+}
+
+.fejlec img{
+  max-width: 100%;
+  margin-left: 30px;
+  position: relative;
+}
+
+.fejlec .ketto{
+  position: absolute;
+  top: 200px;
+  left: 288px;
+  font-size: 37px;
+  font-family: 'Abril Fatface';
+}
+
+.fejlec .harom{
+  position: absolute;
+  top: 215px;
+  left: 290px;
+  font-size: 70px;
+  font-family: 'Abril Fatface';
+}
+
+.analytica{
+  max-width: 1300px;
+  margin-left: 19%;
+  margin-right: 19%;
+}
+
+.szoveg{
+  font-size: 18px;
+  font-family: 'Josefin Sans';
+  padding-left: 5%;
+  padding-right: 10%;
+}
+
+.csoport{
+  font-size: 18px;
+  padding-left: 10%;
+  font-family: 'Josefin Sans';
+  list-style-type: square;
+}
+
+.idezet{
+  width: 100%;
+  background: #4F4F4F;
+  color: white;
+  font-size: 31px;
+  margin-top: 50px;
+  position: relative;
+}
+
+.idezojel{
+  font-size: 90px;
+  position: absolute;
+  top: -10px;
+}
+
+.meg{
+  font-family: 'Abril Fatface';
+  margin-bottom: 50px;
+  padding-left: 40px;
+  padding-top: 30px;
+  padding-bottom: 35px;
+}
+
+.van{
+  font-family: 'Merriweather';
+  padding-left: 5%;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+
+.nap{
+  font-family: 'Merriweather';
+  padding-left: 5%;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.mindig{
+  font-family: 'Josefin Sans';
+  padding-left: 5%;
+  padding-right: 2%;
+  font-size: 15px;
+}
+
+.idezojel.ujra{
+  top: -90px;
+}
+
+.supreme{
+  margin-bottom: 20px;
+  margin-top: 0;
+  padding-left: 5%;
+  font-family: ‘Josefin Sans’;
+}
+
+.csoport.as{
+  margin-top: 20px;
+  font-size: 16px;
+  margin-left: -6px;
+}
+
+.sarga{
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+hr{
+  width: 100%;
+  height: 3px;
+  background: black;
+}
+
+li{
+  margin-bottom: 2px;
+}
